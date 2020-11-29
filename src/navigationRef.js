@@ -1,3 +1,4 @@
+// use this option outside React 
 import { NavigationActions } from 'react-navigation';
 let navigator;
 
